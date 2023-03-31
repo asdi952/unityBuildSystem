@@ -1,0 +1,21 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <Style src="project://database/Assets/y.uss?fileID=7433441132597879392&amp;guid=51e8707bdbb9c8549a1152ce8bfeceef&amp;type=3#y" />
+    <ui:VisualElement />
+    <ui:VisualElement />
+    <ui:VisualElement />
+    <ui:VisualElement />
+    <ui:VisualElement />
+    <ui:VisualElement />
+    <ui:VisualElement>
+        <ui:VisualElement />
+    </ui:VisualElement>
+    <ui:VisualElement>
+        <ui:Button text="Button" display-tooltip-when-elided="true" style="cursor: url(&apos;project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=-1304905567622442630&amp;guid=f1c1c8f7488afd1468bb232eed874cea&amp;type=3#arrow-down@2x&apos;);" />
+        <ui:Button text="assdfsdf" display-tooltip-when-elided="true" />
+    </ui:VisualElement>
+    <ui:VisualElement>
+        <ui:Label text="asdasd" display-tooltip-when-elided="true" name="asd" style="-unity-text-align: upper-center;" />
+    </ui:VisualElement>
+    <ui:Button text="Button" display-tooltip-when-elided="true" />
+    <ui:Button text="Button" display-tooltip-when-elided="true" />
+</ui:UXML>
